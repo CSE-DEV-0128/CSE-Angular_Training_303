@@ -1,4 +1,4 @@
-# Angular Boot Camp example: async-pipe
+# Angular Training example: async-pipe
 
 ## Run and edit this example code
 
